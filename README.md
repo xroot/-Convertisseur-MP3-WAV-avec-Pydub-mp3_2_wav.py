@@ -1,7 +1,7 @@
 # 🎵 Convertisseur MP3 → WAV avec Pydub | mp3_2_wav.py
 
 **Auteur** : David PONDA  
-**Contact** : david.ponda@gmail.com  
+**Contact** : david_ponda@msn.com  
 **Copyright** : 2024 | David PONDA - Je suis votre Maquette  
 
 ## 🌟 Introduction

@@ -1,6 +1,6 @@
 # 🎵 Convertisseur MP3 → WAV avec Pydub | mp3_2_wav.py
 
-**Alias** : Dave | th3 k0d3
+**Author** : Dave | th3 k0d3
 **GitHub** : [github.com/xroot](https://github.com/xroot)
 **LinkedIn** : [linkedin.com/in/david-ponda-92944388/](https://linkedin.com/in/david-ponda-92944388/)
 **Upwork Ready** ✔️  

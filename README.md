@@ -1,8 +1,9 @@
 # 🎵 Convertisseur MP3 → WAV avec Pydub | mp3_2_wav.py
 
-**Auteur** : David PONDA  
-**Contact** : david_ponda@msn.com  
-**Copyright** : 2024 | David PONDA - Je suis votre Maquette  
+**Alias** : Dave | th3 k0d3
+**GitHub** : [github.com/xroot](https://github.com/xroot)
+**LinkedIn** : [linkedin.com/in/david-ponda-92944388/](https://linkedin.com/in/david-ponda-92944388/)
+**Upwork Ready** ✔️  
 
 ## 🌟 Introduction
 Ce script utilise **Pydub** et **FFmpeg** pour convertir des fichiers MP3 en WAV **rapidement et efficacement**.  
